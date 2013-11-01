@@ -9,3 +9,4 @@ A collection of IPython notebooks with reproduced numerical results of some inte
  * [Schmidt et al., Phys. Rev. B *82*, 100507 (2010)](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/reproduced-papers/master/Reproduce-PRB-82-100507-2010-Schmidt.ipynb)
  * [Petersson et al., Nature 490, 380 (2012)](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/reproduced-papers/master/Reproduce-Nature-490-380-2012-Petersson.ipynb)
 
+
